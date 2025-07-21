@@ -1,6 +1,6 @@
 void main()
 {
     int a=44;
-    int= b=34;
+    string a='Nisar'
     print(a)
 }
