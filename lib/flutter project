@@ -1,5 +1,6 @@
 void main()
 {
-    int a=5;
+    int a=44;
+    int= b=34;
     print(a)
 }
